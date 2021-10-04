@@ -5,7 +5,7 @@ client.commands = new Discord.Collection();
 //Dont remove this command. Thanks :D
 module.exports = {
     name: 'author',
-    description: 'Bot author is Antisocial',
+    description: 'Bot author is Antisocial!',
     execute(client, message, args) {
     const embed = new Discord.MessageEmbed()
     .setColor('#FFF0F9')
